@@ -1,6 +1,4 @@
-🌱 Student | Building with purpose
-
-🔗 Focused on meaningful work
+🌱 Student | Learning and building practical solutions.
 <!--
 **heyakai/heyakai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
